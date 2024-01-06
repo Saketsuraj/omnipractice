@@ -1,0 +1,79 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Visual Studio Code
+.vscode/
+
+# Editor configuration
+.idea/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# npm
+*.npm
+*.log
+
+# Yarn
+yarn-error.log
+yarn-debug.log*
+
+# Testing
+coverage
+
+# Output of 'npm pack'
+*.tgz
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Bower dependency directory (https://bower.io/)
+bower_components/
+
+# node-waf configuration
+.lock-wscript
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directories
+node_modules/
+
+# Distribution directories
+dist/
+dist-test/
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Serverless
+.serverless/
+
+# End of File
